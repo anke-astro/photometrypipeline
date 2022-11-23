@@ -1305,7 +1305,7 @@ sl40in_param = {
     # 'filter': 'FILTERA',  # filter keyword
     # 'filter_translations': {'V - Green': 'V','R - Red': 'R','I - Infrared': 'I'},
     'filter': 'FILTERB',  # filter keyword
-    'filter_translations': {'u\'': 'u', 'g\'': 'g', 'r\'': 'r', 'i\'': 'i', 'z\'': 'z'},
+    'filter_translations': {'u\'': 'u', 'g\'': 'g', 'r\'': 'r', 'i\'': 'i', 'z\'': 'z', 'Empty': 'clear'},
     # filtername translation dictionary
     'exptime': 'EXPOSURE',  # exposure time keyword (s)
     'airmass': 'AIRMASS',  # airmass keyword
